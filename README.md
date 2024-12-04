@@ -39,7 +39,8 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 <h3>Generated HTML report for Load Test</h3>
 
-![Screenshot 2024-12-04 184116](https://github.com/user-attachments/assets/bfddb07d-0c97-47a3-b691-d23bb0c14547)
+![image](https://github.com/user-attachments/assets/f696a30e-d26a-4dba-997c-0327054d4daa)
+
 
 <h3>Generated HTML report for Stress Test</h3>
 
