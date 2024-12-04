@@ -30,8 +30,8 @@ Website for APIs - http://dmoney.roadtocareer.net
 <h3>Execute the following steps using CLI: </h3>
 
   - ``` git clone https://github.com/Yasir-Hossain-Katib/yuyh.git ```
-  - ``` jmeter -n -t '.\booking.jmx' -l '.\booking.jtl' -e -o Reports ``` [For Booking APIs JMeter Collection] <br>
-  - ``` jmeter -n -t '.\Dmoney.jmx' -l '.\Dmoney.jtl' -e -o Reports ``` [For DMoney Transaction APIs JMeter Collection ]
+  - ``` jmeter -n -t '.\booking.jmx' -l '.\booking.jtl' -e -o Reports ``` 
+  - ``` jmeter -n -t '.\Dmoney.jmx' -l '.\Dmoney.jtl' -e -o Reports ``` 
 
 <h2>Load and Stress Test Excel Report:</h2>
 
