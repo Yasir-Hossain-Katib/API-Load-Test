@@ -39,12 +39,12 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 <h3>Generated HTML report for Load Test</h3>
 
-![image](https://github.com/user-attachments/assets/f696a30e-d26a-4dba-997c-0327054d4daa)
+![Screenshot 2024-12-04 172009](https://github.com/user-attachments/assets/0cac971e-97c6-47af-9937-87c2000e265c)
 
 
 <h3>Generated HTML report for Stress Test</h3>
 
-![Screenshot 2024-12-04 172009](https://github.com/user-attachments/assets/4b0e9584-e30a-4cb0-81d3-818cc3e3d103)
+![image](https://github.com/user-attachments/assets/f696a30e-d26a-4dba-997c-0327054d4daa)
 
 
 <h3>Generated HTML report for DMoney Jmeter Collection Test</h3>
